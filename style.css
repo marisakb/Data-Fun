@@ -1,0 +1,22 @@
+#headline{
+  font-family: helvetica;
+  text-align: center;
+  font-size: 50px;
+}
+
+#byline{
+  font-family: helvetica;
+  text-align: center;
+}
+
+.center{
+  text-align: center;
+}
+
+.maincontainer {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  font-family: helvetica;
+}
+
